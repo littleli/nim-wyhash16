@@ -1,6 +1,6 @@
 name: Test Wyhash16
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   test:
