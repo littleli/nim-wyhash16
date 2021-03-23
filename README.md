@@ -1,3 +1,3 @@
 # nim-wyhash16
 
-Nim routine for wyhash16
+Wyhash16 routine for Nim
